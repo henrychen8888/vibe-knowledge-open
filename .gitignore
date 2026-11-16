@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 工作区（每期内容与产物，不进仓库）
+vibe-workspace/
+*/vibe-workspace/
+
+# 渲染中间产物
+build/
+stills/
+qa/
+*.log
+
+# 合成曲：首次混音时自动生成，别提交（几十 MB，且每人一生成就是新的）
+assets/music/*.wav
+**/cine/audio/bgm-source.wav
+
+# OCR 编译产物
+tools/ocr
+engine/tools/ocr
+
+# 系统
+.DS_Store
