@@ -1,0 +1,28 @@
+MIT License
+
+Copyright (c) 2026 Berryxia (andyhuo520) — 原始项目 vibe-knowledge
+Copyright (c) 2026 vibe-knowledge-open contributors — 本版的开源化改造
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+MIT 只覆盖本仓库的代码与文档。字体按 SIL Open Font License 分发，第三方组件与
+各自的许可证见 THIRD_PARTY.md。被移除的原始素材（样片、海报、风格预览图、默认 BGM、
+默认音色）不在本仓库内，也不在授权范围内 —— 详见 NOTICE.md。
