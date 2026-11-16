@@ -89,6 +89,10 @@ python3 tools/render.py vibe-workspace/examples/vk 01
 
 代码与文档 MIT。字体 OFL。三方组件见 `THIRD_PARTY.md`。
 
+> **中文字体说明**：`engine/fonts/NotoSansSC-VF.ttf`（17 MB）因单文件体积超出 API 上传通道限制，未入 git 仓库，
+> 随 [v1.0.0 Release 附件](https://github.com/henrychen8888/vibe-knowledge-open/releases/download/v1.0.0/NotoSansSC-VF.ttf) 分发。
+> 完整交付包 `vibe-knowledge-open-v1.0.0.tar.gz` 已内置该字体；单独 clone 的用户请下载后放到 `engine/fonts/` 下。
+
 本仓库**不含**原作者的样片、海报、风格预览图、默认 BGM 与默认音色——那些按上游 NOTICE 不可二次分发，
 所以这里的配乐用代码合成、风格用文档描述。衍生关系说明见 `NOTICE.md`。
 
